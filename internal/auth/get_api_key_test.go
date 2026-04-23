@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"errors"
 )
-d
+
 func TestGetAPIKey(t *testing.T) {
 	type test struct {
 		name    string
